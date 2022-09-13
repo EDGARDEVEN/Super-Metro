@@ -20,4 +20,4 @@ include 'topnav.php';
           <hr>
           <p> <h5> </h5></p>
 
-<?php include 'footer.php'; ?>
+<?php
