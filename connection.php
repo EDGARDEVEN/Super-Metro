@@ -1,6 +1,7 @@
 <?php
  $serverName = "localhost";
  $userName = "root";
+//enter your localhost password
  $password = "";
  $dbName = "busscheduledb";
 
